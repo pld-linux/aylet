@@ -1,4 +1,3 @@
-# TODO: pl description
 Summary:	AY player
 Summary(pl.UTF-8):	Odtwarzacz AY
 Name:		aylet
@@ -28,6 +27,18 @@ on the World of Spectrum website:
 
 http://www.worldofspectrum.org/
 
+%description -l pl.UTF-8
+aylet odtwarza pliki muzyczne formatu .ay. Pliki te są kawałkami kodu
+Z80, który odgrywa muzykę na ZX Spectrum 128 używając brzęczyka albo
+układu AY-3-8912. Pliki używające portów Amstrada CPC są także
+obsługiwane.
+
+aylet ma interfejs oparty na curses, a xaylet na gtk+.
+
+Źródłem plików .ay jest Projekt AY, dostępny na stronie:
+
+http://www.worldofspectrum.org/
+
 %package x11
 Summary:	AY player for X11
 Summary(pl.UTF-8):	Odtwarzacz AY dla X11
@@ -44,6 +55,18 @@ ports are also supported.
 
 One source of `.ay' files playable with aylet/xaylet is "Project AY"
 on the World of Spectrum website:
+
+http://www.worldofspectrum.org/
+
+%description -l pl.UTF-8
+aylet odtwarza pliki muzyczne formatu .ay. Pliki te są kawałkami kodu
+Z80, który odgrywa muzykę na ZX Spectrum 128 używając brzęczyka albo
+układu AY-3-8912. Pliki używające portów Amstrada CPC są także
+obsługiwane.
+
+aylet ma interfejs oparty na curses, a xaylet na gtk+.
+
+Źródłem plików .ay jest Projekt AY, dostępny na stronie:
 
 http://www.worldofspectrum.org/
 
