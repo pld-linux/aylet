@@ -58,7 +58,7 @@ on the World of Spectrum website:
 
 http://www.worldofspectrum.org/
 
-%description -l pl.UTF-8
+%description x11 -l pl.UTF-8
 aylet odtwarza pliki muzyczne formatu .ay. Pliki te są kawałkami kodu
 Z80, który odgrywa muzykę na ZX Spectrum 128 używając brzęczyka albo
 układu AY-3-8912. Pliki używające portów Amstrada CPC są także
